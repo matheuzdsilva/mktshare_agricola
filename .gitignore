@@ -1,0 +1,14 @@
+.mktshare-agricola-py3.12/
+.venv/
+
+__pycache__/
+*.pyc
+*.pyo
+*.log
+
+.vscode/
+
+poetry.lock
+
+.DS_Store
+Thumbs.db
